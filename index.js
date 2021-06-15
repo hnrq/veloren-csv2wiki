@@ -68,10 +68,9 @@ const playerWeaponsMarkup = Object.entries(playerWeapons).reduce(
         `\n| [[${weapon["Name"]}]] || ${weapon["Power"]} || ${
           weapon["Speed"]
         } || ${getQualityColor(weapon["Quality"])} || {{${weapon["Quality"]}}}`,
-      ""
     ) +
-    "|}" +
-    "</div>",
+    "\n|}" +
+    "\n</div>\n",
   "",
   ""
 );
