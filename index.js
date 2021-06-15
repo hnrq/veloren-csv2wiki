@@ -76,6 +76,5 @@ const playerWeaponsMarkup = Object.entries(playerWeapons).reduce(
   ""
 );
 
-console.log();
-
 Deno.writeTextFileSync(args.o || args.output, playerWeaponsMarkup);
+console.log("CSV successfully parsed");
