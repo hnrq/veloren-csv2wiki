@@ -1,0 +1,301 @@
+Path,Kind,Name,Hands,Quality,Power,Poise Strength,Speed,Crit Chance,Equip Time (s),Description
+common.items.weapons.axe_1h.wood-1,Axe,Wooden Hatchet,One,Low,0.5,1,1.1,0.09821428,0.4,Carved from wood.
+common.items.weapons.axe_1h.iron-3,Axe,Orcish Axe,One,Moderate,1.2,1,1,0.1375,0.4,Forged from iron.
+common.items.weapons.axe_1h.steel-1,Axe,Steel Hatchet,One,Moderate,1.4,1,1,0.12857144,0.4,Forged from steel.
+common.items.weapons.axe_1h.cobalt-0,Axe,Mooncleaver,One,High,1.6,1,1,0.1421875,0.4,Forged from cobalt.
+common.items.weapons.axe_1h.steel-0,Axe,Doloire,One,Moderate,1.5,1,0.9,0.118421055,0.4,Forged from steel.
+common.items.weapons.axe_1h.iron-0,Axe,Bearded Axe,One,Moderate,1.1,1,1.1,0.15,0.4,Forged from iron.
+common.items.weapons.axe_1h.bloodsteel-1,Axe,Nsapo Axe,One,High,2,1,0.8,0.11666667,0.4,Infused with blood.
+common.items.weapons.axe_1h.wood-0,Axe,Wooden Cleaver,One,Low,0.8,1,0.8,0.0625,0.4,Carved from wood.
+common.items.weapons.axe_1h.stone-1,Axe,Stone Cleaver,One,Common,0.7,1,1.1,0.14311224,0.4,Chiseled from stone.
+common.items.weapons.axe_1h.iron-1,Axe,Beetle Axe,One,Moderate,1.3,1,0.9,0.1257085,0.4,Forged from iron.
+common.items.weapons.axe_1h.orichalcum-0,Axe,Orichalcum Axe,One,Epic,2,1,1,0.140625,0.4,Forged with orichalcum.
+common.items.weapons.axe_1h.stone-0,Axe,Flint Axe,One,Common,0.8,1,1,0.1265625,0.4,Chiseled from stone.
+common.items.weapons.axe_1h.bloodsteel-0,Axe,Crimson Tomahawk,One,High,1.5,1,1.3,0.16485508,0.4,Infused with blood.
+common.items.weapons.axe_1h.bronze-1,Axe,Bronze Kilonda,One,Moderate,1.1,1,1,0.14318182,0.4,Forged from bronze.
+common.items.weapons.axe_1h.steel-2,Axe,Steel Kilonda,One,Moderate,1.3,1,1.1,0.139011,0.4,Forged from steel.
+common.items.weapons.axe_1h.iron-2,Axe,Iron Tomahawk,One,Moderate,1,1,1.2,0.16363636,0.4,Forged from iron.
+common.items.weapons.axe_1h.bronze-0,Axe,Bronze Hatchet,One,Moderate,1,1,1.1,0.15714286,0.4,Forged from bronze.
+common.items.weapons.axe_1h.cobalt-1,Axe,Skullsplitter,One,High,1.75,1,0.85,0.12635136,0.4,Forged from cobalt.
+common.items.weapons.tool.fishing_rod,Farming,Fishing Rod,Two,Common,1,1,1,0.1125,0.4,Smells of fish.
+common.items.weapons.tool.pitchfork,Farming,Pitchfork,Two,Common,1,4,1,0.1125,0.4,One of the prongs is broken.
+common.items.weapons.tool.rake,Farming,Rake,Two,Common,1,1,1,0.1125,0.4,Held together with twine.
+common.items.weapons.tool.pickaxe,Farming,Pickaxe,Two,Common,1,1,1,0.1125,0.4,It has a chipped edge.
+common.items.weapons.tool.shovel-0,Farming,Shovel,Two,Common,1,2,1,0.1125,0.4,It's covered in manure.
+common.items.weapons.tool.broom,Farming,Broom,Two,Common,1,1,1,0.1125,0.4,It's beginning to fall apart.
+common.items.weapons.tool.shovel-1,Farming,Shovel,Two,Common,1,2,1,0.1125,0.4,It's been recently cleaned.
+common.items.weapons.tool.hoe,Farming,Hoe,Two,Common,1,1.5,1,0.1125,0.4,It's stained with dirt.
+common.items.weapons.hammer_1h.wood-1,Hammer,Wooden Cudgel,One,Low,0.5,1,1.1,0.09821428,0.5,Carved from wood.
+common.items.weapons.hammer_1h.steel-1,Hammer,Jeweled Bulawa,One,Moderate,1.4,1,1,0.12857144,0.5,Inset with an amethyst.
+common.items.weapons.hammer_1h.cobalt-0,Hammer,Blue Bludgeon,One,High,1.6,1,1,0.1421875,0.5,Forged from cobalt.
+common.items.weapons.hammer_1h.steel-0,Hammer,Bone Breaker,One,Moderate,1.5,1,0.9,0.118421055,0.5,Forged from steel.
+common.items.weapons.hammer_1h.iron-0,Hammer,Dwarven Hammer,One,Moderate,1.4,1,0.8,0.114285715,0.5,Forged from iron.
+common.items.weapons.hammer_1h.bloodsteel-1,Hammer,Scarlet Maul,One,High,1.8,1,1,0.13611111,0.5,Infused with blood.
+common.items.weapons.hammer_1h.wood-0,Hammer,Stump Club,One,Low,0.8,1,0.8,0.0625,0.5,All that remains of a tree...
+common.items.weapons.hammer_1h.stone-1,Hammer,Stone Hammer,One,Common,1,1,0.8,0.1,0.5,Chiseled from stone.
+common.items.weapons.hammer_1h.iron-1,Hammer,Iron Club,One,Moderate,1.3,1,0.9,0.1257085,0.5,Forged from iron.
+common.items.weapons.hammer_1h.orichalcum-0,Hammer,Orichalcum Mace,One,Epic,2,1,1,0.140625,0.4,Forged with orichalcum.
+common.items.weapons.hammer_1h.stone-0,Hammer,Spine Mace,One,Common,0.7,1,1.1,0.14311224,0.5,Bone(s?)
+common.items.weapons.hammer_1h.bloodsteel-0,Hammer,Bloodsteel Mace,One,High,1.6,1,1.2,0.15511364,0.5,Infused with blood.
+common.items.weapons.hammer_1h.bronze-1,Hammer,Bronze Cudgel,One,Moderate,1,1,1,0.15,0.5,Forged from bronze.
+common.items.weapons.hammer_1h.steel-2,Hammer,Ornamental Mace,One,Moderate,1.2,1,1.2,0.15,0.5,Inlaid with gold.
+common.items.weapons.hammer_1h.iron-2,Hammer,Spiky Mace,One,Moderate,1.1,1,1.1,0.15,0.5,Forged from iron.
+common.items.weapons.hammer_1h.bronze-0,Hammer,Brass Block,One,Moderate,1.2,1,0.8,0.12222222,0.5,Casted from brass.
+common.items.weapons.hammer_1h.cobalt-1,Hammer,Cobalt Cudgel,One,High,1.5,1,1.1,0.15277778,0.5,Forged from cobalt.
+common.items.weapons.bow.frostwood-2,Bow,Lunar Bow,Two,High,1.7,0.8,0.9,0.13165635,0.4,Glows under the light of the moon
+common.items.weapons.bow.eldwood-1,Bow,Topaz Warbow,Two,High,1.6,0.8,1.2,0.15511364,0.4,Inset with topaz
+common.items.weapons.bow.wood-2,Bow,Hunting Bow,Two,Low,0.8,0.8,1,0.0703125,0.4,You could hunt a deer with this bow
+common.items.weapons.bow.sagitta,Bow,Sagitta,Two,Legendary,2.5,0.8,0.8,0.11666667,0.4,Said to have slain a dragon with a single arrow
+common.items.weapons.bow.wood-1,Bow,Flatbow,Two,Low,0.7,0.8,1.1,0.0795068,0.4,The bow looks stangely flat...
+common.items.weapons.bow.velorite,Bow,Velorite Bow,Two,Epic,2,1.1,1,0.140625,0.4,Infused with Velorite power.
+common.items.weapons.bow.hardwood-0,Bow,Bramblewood Bow,Two,Moderate,1.2,0.8,1,0.1375,0.4,Some loose brambles are still attached
+common.items.weapons.bow.metal-4,Bow,Soldier's Bow,Two,Moderate,1.6,0.8,0.8,0.108333334,0.4,Reinforced with iron
+common.items.weapons.bow.eldwood-2,Bow,Treant Branch,Two,High,2,0.8,0.8,0.11666667,0.4,You occasionally see it twitch from your periphery
+common.items.weapons.bow.frostwood-1,Bow,Frostwood Bow,Two,High,1.6,0.8,1,0.1421875,0.4,Chill to the touch...
+common.items.weapons.bow.wood-0,Bow,Elven Shortbow,Two,Low,0.9,0.8,0.9,0.0625,0.4,Made with exquisite craftsmanship
+common.items.weapons.bow.bone-1,Bow,Horn Bow,Two,Moderate,1.2,0.8,0.8,0.12222222,0.4,The horns aren't from any creature you know
+common.items.weapons.bow.hardwood-5,Bow,Stag Bow,Two,Moderate,1.3,0.8,0.9,0.1257085,0.4,Made from the antlers of a stag
+common.items.weapons.bow.metal-3,Bow,Metal Warbow,Two,Moderate,1.5,0.8,0.9,0.118421055,0.4,Its appearance is intimidating
+common.items.weapons.bow.starter,Bow,Uneven Bow,Two,Low,0.5,0.3,1,0.09375,0.4,Someone carved their initials into it.
+common.items.weapons.bow.bone-0,Bow,Fanged Bow,Two,Moderate,0.9,0.8,1.1,0.16587302,0.4,There are over a dozen small fangs attached to the bow limbs
+common.items.weapons.bow.bone-2,Bow,Ritual Bow,Two,Moderate,1,0.8,1,0.15,0.4,A ceremonial weapon
+common.items.weapons.bow.hardwood-4,Bow,Recurve Bow,Two,Moderate,1,0.8,1.2,0.16363636,0.4,It's hard to pull back all the way
+common.items.weapons.bow.metal-1,Bow,Enchanted Longbow,Two,Moderate,1.2,0.8,1.2,0.15,0.4,You feel a faint magical aura emanating from the bow
+common.items.weapons.bow.metal-0,Bow,Beetlehorn Bow,Two,Moderate,1.4,0.8,1,0.12857144,0.4,Made from the horns of a small beetle
+common.items.weapons.bow.eldwood-0,Bow,Eldwood Bow,Two,High,1.8,0.8,1,0.13611111,0.4,"The wood feels old, yet still alive"
+common.items.weapons.bow.rawwood-1,Bow,Sprig Bow,Two,Low,0.6,0.8,1,0.083333336,0.4,It was only recently collected
+common.items.weapons.bow.metal-2,Bow,Iron Longbow,Two,Moderate,1.3,0.8,1.1,0.139011,0.4,Forged from iron
+common.items.weapons.bow.rawwood-0,Bow,Oakroot Bow,Two,Low,0.7,0.8,0.9,0.0718985,0.4,The wood is blackened with dirt
+common.items.weapons.bow.wood-3,Bow,Longbow,Two,Low,1,0.8,0.8,0.055555556,0.4,Made of wood
+common.items.weapons.bow.hardwood-3,Bow,Horse Bow,Two,Moderate,0.9,0.8,1.3,0.1789855,0.4,Perfect for mounted archery
+common.items.weapons.bow.hardwood-1,Bow,Composite Bow,Two,Moderate,1.4,0.8,0.8,0.114285715,0.4,It has a heavy draw weight
+common.items.weapons.bow.hardwood-2,Bow,Elven Longbow,Two,Moderate,1.1,0.8,1.1,0.15,0.4,Made with exquisite craftsmanship
+common.items.weapons.bow.bone-3,Bow,Spinal Bow,Two,Moderate,1.1,0.8,0.9,0.13564593,0.4,Made with bones
+common.items.weapons.bow.frostwood-0,Bow,Eagle Bow,Two,High,1.4,0.8,1.2,0.16363636,0.4,The design is reminiscent of a spread eagle's wings
+common.items.weapons.bow.wood-4,Bow,Swift Shortbow,Two,Low,0.6,0.8,1.2,0.09090909,0.4,Swiftly fires arrows
+common.items.weapons.sword_1h.bronze-2,Sword,Fanged Blade,One,Common,0.85,1,0.9,0.11598297,0.4,Forged with bronze.
+common.items.weapons.sword_1h.steel-3,Sword,Steel Sabre,One,Moderate,1.2,1,1.05,0.14085366,0.4,Forged with steel.
+common.items.weapons.sword_1h.iron-3,Sword,Swift Rapier,One,Common,0.8,1,1.2,0.13806818,0.4,Forged with iron.
+common.items.weapons.sword_1h.bloodsteel-2,Sword,Razorblade,One,High,1.75,1,1,0.1375,0.4,Infused with blood.
+common.items.weapons.sword_1h.steel-1,Sword,Noble Scimitar,One,Moderate,1.3,1,0.95,0.12928994,0.4,Forged with steel.
+common.items.weapons.sword_1h.cobalt-0,Sword,Cobalt Shortsword,One,Moderate,1.3,1,1.2,0.14475524,0.4,Forged with cobalt.
+common.items.weapons.sword_1h.steel-0,Sword,Butcher's Blade,One,Moderate,1.5,1,0.75,0.10714286,0.4,Forged with steel.
+common.items.weapons.sword_1h.iron-0,Sword,Gladius,One,Common,1,1,1,0.1125,0.4,Forged with iron.
+common.items.weapons.sword_1h.bloodsteel-1,Sword,Bloodsteel Sword,One,High,2,1,0.75,0.1125,0.4,Infused with blood.
+common.items.weapons.sword_1h.cobalt-2,Sword,Falchion,One,Moderate,1.4,1,1.1,0.13469388,0.4,Forged with cobalt.
+common.items.weapons.sword_1h.obsidian-0,Sword,Macuahuitl,One,High,1.95,1,0.8,0.117663816,0.4,Embedded with obsidian.
+common.items.weapons.sword_1h.iron-1,Sword,Iron Khopesh,One,Common,0.9,1,1.1,0.124404766,0.4,Forged with iron.
+common.items.weapons.sword_1h.cobalt-3,Sword,Forked Sword,One,Moderate,1.6,1,0.9,0.11546052,0.4,Forged with cobalt.
+common.items.weapons.sword_1h.orichalcum-0,Sword,Diamond Blade,One,Epic,2.1,1,0.9,0.13110903,0.4,Forged with orichalcum.
+common.items.weapons.sword_1h.bloodsteel-0,Sword,Bloodrose,One,High,1.45,1,1.3,0.16712894,0.4,Infused with blood.
+common.items.weapons.sword_1h.bronze-1,Sword,Bronze Shortsword,One,Common,0.75,1,1,0.13125,0.4,Forged with bronze.
+common.items.weapons.sword_1h.steel-2,Sword,Royal Guard,One,Moderate,1.05,1,1.2,0.15974025,0.4,Forged with steel.
+common.items.weapons.sword_1h.orichalcum-1,Sword,Orichalcum Sword,One,Epic,1.9,1,1.1,0.14990601,0.4,Forged with orichalcum.
+common.items.weapons.sword_1h.iron-2,Sword,Iron Scimitar,One,Common,1.2,1,0.8,0.09166667,0.4,Forged with iron.
+common.items.weapons.sword_1h.bronze-0,Sword,Bronze Khopesh,One,Common,0.65,1,1.1,0.14958791,0.4,Forged with bronze.
+common.items.weapons.sword_1h.iron-4,Sword,Sword of Man,One,Common,1.1,1,0.9,0.10173445,0.4,Forged with iron.
+common.items.weapons.sword_1h.cobalt-1,Sword,Cobalt Warblade,One,Moderate,1.7,1,0.8,0.105882354,0.4,Forged with cobalt.
+common.items.weapons.shield.shield_1,Shield,A Tattered Targe,One,Common,1,1,1,0.1125,0.4,"Should withstand a few more hits, hopefully..."
+common.items.weapons.sword.wood-2,Sword,Forest Spirit,Two,Low,0.5,1,1.1,0.09821428,0.4,The resin glows.
+common.items.weapons.sword.bronze-2,Sword,Jagged Longblade,Two,Moderate,1,1,1,0.15,0.3,Forged with bronze.
+common.items.weapons.sword.frost-1,Sword,Frost Saw,Two,Epic,1.95,1,1,0.14182693,0.5,Forged from a single piece of eternal ice.
+common.items.weapons.sword.steel-7,Sword,Steel Towerblade,Two,Moderate,1.6,1,0.8,0.108333334,0.3,Forged with steel.
+common.items.weapons.sword.caladbolg,Sword,Caladbolg,Two,Legendary,2.5,1,0.8,0.11666667,0.3,You sense an eldritch presence watching you.
+common.items.weapons.sword.frost-0,Sword,Frost Cleaver,Two,High,1.7,1,1,0.13897058,0.5,Radiates a freezing aura.
+common.items.weapons.sword.steel-3,Sword,Seven-Branched Sword,Two,Moderate,1.5,1,0.9,0.118421055,0.3,Forged with steel.
+common.items.weapons.sword.wood-1,Sword,Oaken Greatsword,Two,Low,0.8,1,0.8,0.0625,0.3,Carved from an oak.
+common.items.weapons.sword.iron-3,Sword,Iron Flamberge,Two,Moderate,1.15,1,1.05,0.14363733,0.3,Forged with iron.
+common.items.weapons.sword.bloodsteel-2,Sword,Sharktooth,Two,High,2,1,0.8,0.11666667,0.3,Infused with blood.
+common.items.weapons.sword.steel-1,Sword,Nomad's Longblade,Two,Moderate,1.45,1,0.95,0.1234748,0.3,Forged with steel.
+common.items.weapons.sword.cobalt-0,Sword,Cobalt Claymore,Two,High,1.5,1,1.1,0.15277778,0.3,Forged with cobalt.
+common.items.weapons.sword.steel-0,Sword,Butterfly Sword,Two,Moderate,1.4,1,1,0.12857144,0.3,Forged with steel.
+common.items.weapons.sword.iron-0,Sword,Buccaneer's Blade,Two,Moderate,1.25,1,0.95,0.13153847,0.3,Forged with iron.
+common.items.weapons.sword.bloodsteel-1,Sword,Fierce Katana,Two,High,1.6,1,1.2,0.15511364,0.3,Infused with blood.
+common.items.weapons.sword.cobalt-2,Sword,Cobalt Longsword,Two,High,1.6,1,1,0.1421875,0.3,Forged with cobalt.
+common.items.weapons.sword.wood-0,Sword,Bladed Branch,Two,Low,0.6,1,1,0.083333336,0.3,Grown in the shape of a sword.
+common.items.weapons.sword.stone-1,Sword,Flint Sword,Two,Low,0.8,1,1,0.0703125,0.3,Chiseled from flint.
+common.items.weapons.sword.iron-1,Sword,Embedded Greatsword,Two,Moderate,1.45,1,0.75,0.10862069,0.3,Forged with iron.
+common.items.weapons.sword.starter,Sword,Damaged Greatsword,Two,Low,0.5,1,1,0.09375,0.3,The blade could snap at any moment...
+common.items.weapons.sword.iron-6,Sword,Iron Zweihander,Two,Moderate,1.2,1,1,0.1375,0.3,Forged with iron.
+common.items.weapons.sword.iron-5,Sword,Iron Longsword,Two,Moderate,1.05,1,1.15,0.15664452,0.3,Forged with iron.
+common.items.weapons.sword.cobalt-3,Sword,Cobalt Towerblade,Two,High,1.7,1,0.9,0.13165635,0.3,Forged with cobalt.
+common.items.weapons.sword.iron-8,Sword,Royal Longsword,Two,Moderate,1,1,1.2,0.16363636,0.3,Forged with iron.
+common.items.weapons.sword.stone-0,Sword,Ancient Greatsword,Two,Low,1,1,0.8,0.055555556,0.3,Covered in stone.
+common.items.weapons.sword.iron-9,Sword,Swift Katana,Two,Moderate,0.95,1,1.25,0.17105263,0.3,Forged with iron.
+common.items.weapons.sword.iron-10,Sword,Warlord's Blade,Two,Moderate,1.35,1,0.85,0.11996997,0.3,Forged with iron.
+common.items.weapons.sword.bloodsteel-0,Sword,Bloodsteel Flamberge,Two,High,1.8,1,1,0.13611111,0.3,Infused with blood.
+common.items.weapons.sword.steel-5,Sword,Steel Katana,Two,Moderate,1.2,1,1.2,0.15,0.3,Forged with steel.
+common.items.weapons.sword.bronze-1,Sword,Bronze Longsword,Two,Moderate,0.9,1,1.1,0.16587302,0.3,Forged with bronze.
+common.items.weapons.sword.cultist,Sword,Magical Cultist Greatsword,Two,Epic,2,1,1,0.140625,0.5,This belonged to an evil Cult Leader.
+common.items.weapons.sword.steel-2,Sword,Ornamental Longsword,Two,Moderate,1.25,1,1.15,0.14441861,0.3,Forged with steel.
+common.items.weapons.sword.steel-8,Sword,Steel Zweihander,Two,Moderate,1.35,1,1.05,0.13373984,0.3,Forged with steel.
+common.items.weapons.sword.stone-2,Sword,Ritual Greatsword,Two,Low,0.9,1,0.9,0.0625,0.3,Chiseled from stone.
+common.items.weapons.sword.steel-6,Sword,Steel Longsword,Two,Moderate,1.3,1,1.1,0.139011,0.3,Forged with steel.
+common.items.weapons.sword.iron-2,Sword,Iron Claymore,Two,Moderate,1.1,1,1.1,0.15,0.3,Forged with iron.
+common.items.weapons.sword.bronze-0,Sword,Brass Beast,Two,Moderate,1.1,1,0.9,0.13564593,0.3,Forged with bronze.
+common.items.weapons.sword.iron-4,Sword,Iron Greatsword,Two,Moderate,1.3,1,0.9,0.1257085,0.3,Forged with iron.
+common.items.weapons.sword.iron-7,Sword,Noble Greatsword,Two,Moderate,1.4,1,0.8,0.114285715,0.3,Forged with iron.
+common.items.weapons.sword.cobalt-1,Sword,Cobalt Greatsword,Two,High,1.8,1,0.8,0.120987654,0.3,Forged with cobalt.
+common.items.weapons.sword.steel-4,Sword,Steel Greatsword,Two,Moderate,1.55,1,0.85,0.113382734,0.3,Forged with steel.
+common.items.weapons.sceptre.fork0,Sceptre,Infused Fork,Two,High,1.7,1.5,0.8,0.11666667,0.4,Shamanistic energies brought this piece of wood to life again.
+common.items.weapons.sceptre.totem_green,Sceptre,Gnarling Pride,Two,Moderate,1,1.5,1.2,0.16363636,0.4,"Territory marker of a Gnarling tribe.
+Infused with healing powers."
+common.items.weapons.sceptre.coralline_cane,Sceptre,Coralline Cane,Two,High,1.6,1.5,1,0.14666668,0.4,Traditional danari scepter from the depths of the ocean
+common.items.weapons.sceptre.loops0,Sceptre,Soothing Loop,Two,High,1.2,1.5,1.3,0.1925,0.4,Do you really want to live forever?
+common.items.weapons.sceptre.emerald,Sceptre,Emerald Sceptre,Two,Epic,2,1,1,0.140625,0.3,Its stone is the closest thing from perfection
+common.items.weapons.sceptre.druids_arbor,Sceptre,Druid's Arbor,Two,Moderate,1.4,1.5,1.1,0.055102043,0.4,Draws its power from the primordial nature
+common.items.weapons.sceptre.root_green0,Sceptre,Twitching Root,Two,Low,0.7,1.5,1.1,0.055102043,0.4,Sparkles from living energy.
+common.items.weapons.sceptre.root_evil,Sceptre,The Root of Evil,Two,Legendary,2.5,1,0.8,0.078125,0.4,'Everything comes at a price...'
+common.items.weapons.sceptre.divine_gohei,Sceptre,Divine Gohei,Two,Common,1,1.5,0.8,0.0809375,0.4,The wind wont make it bend
+common.items.weapons.sceptre.starter_sceptre,Sceptre,Naturalist Walking Stick,Two,Low,0.5,0.1,1,0.09375,0.4,Heals your allies with the power of nature.
+common.items.weapons.sceptre.caduceus,Sceptre,Caduceus,Two,Legendary,1.67,1.5,1.2,0.078125,0.4,The snakes seem to be alive
+common.items.weapons.sceptre.moon0,Sceptre,Crescent Saviour,Two,Moderate,1.3,1.5,0.9,0.0609375,0.4,Trusty companion by day and night.
+common.items.weapons.sceptre.staff_nature,Sceptre,Sceptre of Regeneration,Two,Moderate,0.91,0.5,1.1,0.16491365,0.4,Heals your allies with the power of nature.
+common.items.weapons.sceptre.amethyst,Sceptre,Amethyst Staff,Two,Epic,1.8,1.5,1.2,0.088125,0.4,Its stone is the closest thing from perfection
+common.items.weapons.sceptre.sceptre_velorite_0,Sceptre,Velorite Sceptre,Two,Epic,2,1.5,1,0.21153846,0.4,Heals your allies with the mystical Velorite aura.
+common.items.weapons.axe.iron_axe-4,Axe,Butcher's Axe,Two,Moderate,1.2,1,1,0.1375,0.4,This axe has a heavy iron head used to cleave nearly anything.
+common.items.weapons.axe.iron_axe-6,Axe,Iron Axe,Two,Moderate,1.2,1,1,0.1375,0.4,A simple dual bitted iron forged axe.
+common.items.weapons.axe.iron_axe-8,Axe,Fanged Axe,Two,Moderate,1.2,1,1,0.1375,0.4,Several sharp axe heads forged with points to mimic animal fangs.
+common.items.weapons.axe.steel_axe-1,Axe,Steel Labrys,Two,Moderate,1.4,1,1,0.12857144,0.4,"Double bitted, well polished, and spiked axe head."
+common.items.weapons.axe.starter_axe,Axe,Notched Axe,Two,Low,0.5,1,1,0.09375,0.4,Every dent tells the story of a chopped tree.
+common.items.weapons.axe.iron_axe-3,Axe,Iron Battleaxe,Two,Moderate,1.2,1,1,0.1375,0.4,"Tried and true iron armaments, mass produced for killing."
+common.items.weapons.axe.bloodsteel_axe-0,Axe,Bloodsteel Axe,Two,High,1.8,1,1,0.1421875,0.4,Dark rituals call for metal alloys to be formed in the blood of an animal carcass to ensure the resultant axe thirsts for future kills.
+common.items.weapons.axe.bronze_axe-1,Axe,Discus Axe,Two,Moderate,1,1,1,0.15,0.4,"While the metal alloy is relatively simple, this unique circular axe has a unique appearance."
+common.items.weapons.axe.iron_axe-2,Axe,Cyclone Axe,Two,Moderate,1.2,1,1,0.1375,0.4,"The iron axe head is split into two distinct curves, giving it a unique appearance."
+common.items.weapons.axe.steel_axe-4,Axe,Moon Axe,Two,Moderate,1.4,1,1,0.12857144,0.4,The blade of this axe resembles a full moon.
+common.items.weapons.axe.bloodsteel_axe-2,Axe,Skull Axe,Two,High,1.8,1,1,0.1421875,0.4,Infused with blood.
+common.items.weapons.axe.steel_axe-2,Axe,Steel Axe,Two,Moderate,1.4,1,1,0.12857144,0.4,A simple metal alloy axe.
+common.items.weapons.axe.iron_axe-9,Axe,Wolfen Axe,Two,Moderate,1.2,1,1,0.1375,0.4,Strikes from this axe look like wolf bites in flesh.
+common.items.weapons.axe.bronze_axe-2,Axe,Tribal Axe,Two,Moderate,1,1,1,0.15,0.4,Stained with the blood of its wielder's enemies.
+common.items.weapons.axe.iron_axe-1,Axe,Ceremonial Axe,Two,Moderate,1.2,1,1,0.1375,0.4,"Heavy iron axe, likely created for ritual execution."
+common.items.weapons.axe.parashu,Axe,Parashu,Two,Legendary,2.5,1,0.8,0.11666667,0.4,Said to be able to cleave the heavens.
+common.items.weapons.axe.bronze_axe-0,Axe,Bronze Axe,Two,Moderate,1,1,1,0.15,0.4,A fine quality metal alloy axe.
+common.items.weapons.axe.iron_axe-0,Axe,Iron Greataxe,Two,Moderate,1.2,1,1,0.1375,0.4,"Heavy iron hammered into rough blades, a simple tool for killing."
+common.items.weapons.axe.steel_axe-5,Axe,Owl Axe,Two,Moderate,1.4,1,1,0.12857144,0.4,Druidic rituals formed this axe in the dark of night. Made to look like the wings of an owl swooping in on a kill.
+common.items.weapons.axe.cobalt_axe-0,Axe,Cobalt Axe,Two,High,1.6,1,1,0.13611111,0.4,The lustrous bluish gray axe provides a certain stylish class to the weapon.
+common.items.weapons.axe.steel_axe-0,Axe,Steel Battleaxe,Two,Moderate,1.4,1,1,0.12857144,0.4,Well crafted metal alloy axe that slices more cleanly than its iron counterparts.
+common.items.weapons.axe.malachite_axe-0,Axe,Malachite Axe,Two,Epic,2,1,1,0.140625,0.4,Etched axe head decorated with malachite on the blades to provide magical properties.
+common.items.weapons.axe.iron_axe-5,Axe,Barbarian's Axe,Two,Moderate,1.2,1,1,0.1375,0.4,"While heavy, this iron forged axe is quite easy to swing, at least for those with the muscle backing it."
+common.items.weapons.axe.orc_axe-0,Axe,Beast Cleaver,Two,Low,0.6,1,1,0.083333336,0.4,A rough cut axe created by orcs to cleave beasts in two.
+common.items.weapons.axe.bloodsteel_axe-1,Axe,Executioner's Axe,Two,High,1.8,1,1,0.1421875,0.4,Dark rituals call for metal alloys to be formed in the blood of an animal carcass to ensure the resultant axe thirsts for future kills.
+common.items.weapons.axe.iron_axe-7,Axe,Iron Labrys,Two,Moderate,1.2,1,1,0.1375,0.4,"Double bitted axe head, decorated iron construction."
+common.items.weapons.axe.steel_axe-3,Axe,Crescent Axe,Two,Moderate,1.4,1,1,0.12857144,0.4,The blade of this steel axe is forged in a manner to resemble a crescent moon.
+common.items.weapons.axe.steel_axe-6,Axe,Spade Axe,Two,Moderate,1.4,1,1,0.12857144,0.4,"This axe is designed to mimic the playing card suit, swiftly slicing through the air."
+common.items.weapons.axe.cobalt_axe-1,Axe,Cobalt Cleaver,Two,High,1.6,1,1,0.13611111,0.4,Forged with cobalt.
+common.items.weapons.staff.fiery_wishing_rod,Staff,Fiery Wishing-Rod,Two,Common,0.95,1,0.8,0.11111111,0.3,Fulfills all your wishes from medium-rare to well-done
+common.items.weapons.staff.solar,Staff,Solar Staff,Two,Moderate,0.9,1,1.1,0.125,0.3,Sun energy rumble deep within this staff
+common.items.weapons.staff.starter_staff,Staff,Gnarled Rod,Two,Low,0.5,1,1,0.09375,0.3,Smells like resin and magic.
+common.items.weapons.staff.frostwood_torch,Staff,Frostwood Torch,Two,High,1.3,1,1.2,0.13437909,0.3,Staff made from the coolest wood
+common.items.weapons.staff.heated_arm,Staff,Heated Grip Arm,Two,Moderate,1,1,1,0.15,0.1,"'Caution, hot surface!'"
+common.items.weapons.staff.aurora,Staff,Aurora,Two,High,1.4,1,1.1,0.2625,0.3,Praise the sun!
+common.items.weapons.staff.crimson_eye,Staff,Crimson Eye,Two,Low,0.5,1,1.1,0.125,0.3,The eye faintly glows.
+common.items.weapons.staff.cultist_staff,Staff,Cultist Staff,Two,Epic,2,1,1,0.140625,0.3,The fire gives off no heat.
+common.items.weapons.staff.lava_rod,Staff,Lava Rod,Two,Moderate,1.2,1,0.8,0.114379086,0.3,'Property of Rob MacLava'
+common.items.weapons.staff.infused_tower,Staff,Infused Tower,Two,Moderate,1.1,1,0.9,0.18715277,0.3,Portable Beacon
+common.items.weapons.staff.flamethrower_0,Staff,Unstable Flamethrower MK II,Two,Moderate,1.5,1,0.8,0.113131315,0.3,Definitely-A-Flamethrower
+common.items.weapons.staff.laevateinn,Staff,Laevateinn,Two,Legendary,1.67,1,1.2,0.2002994,0.6,Can shatter the gate of death
+common.items.weapons.staff.bone_staff,Staff,Bone Staff,Two,Low,0.5,1,1.2,0.1125,0.3,There's a red gem suspended in the bones.
+common.items.weapons.staff.ruby_rod,Staff,Ruby Rod,Two,High,1.6,1,1.1,0.2625,0.3,Some legends tell that the ruby is is tied to the fire element
+common.items.weapons.staff.ley_seeker,Staff,Ley Seeker,Two,Common,0.8,1,0.9,0.1125,0.3,Starts swinging when pointed away from water
+common.items.weapons.staff.golden_khakkara,Staff,Golden Khakkara,Two,Moderate,1.1,1,1.1,0.115,0.3,Originally used to frighten away animals
+common.items.weapons.staff.bent_fuse,Staff,Bent Fuse,Two,Low,0.8,1,0.7,0.17045455,0.3,It's twitching from being charged with elemental powers
+common.items.weapons.staff.staff_1,Staff,Humble Stick,Two,Low,0.5,1,1,0.09375,0.2,Walking stick with a sharpened end.
+common.items.weapons.staff.orc_iron,Staff,Orcish Branding Iron,Two,Moderate,1.5,1,0.8,0.2638889,0.3,Used to mark animals and captured foes
+common.items.weapons.staff.phoenix,Staff,Phoenix,Two,Legendary,2.5,1,0.8,0.1002994,0.6,The ashes never stop glowing
+common.items.weapons.staff.dragon_tongue,Staff,Dragon Tongue,Two,Epic,2,1,0.8,0.2625,0.3,The one they fear
+common.items.weapons.hammer.runic_hammer,Hammer,Runic Hammer,Two,High,1.8,1,1,0.13611111,0.5,There are strange runes inscribed into it.
+common.items.weapons.hammer.steel_hammer-4,Hammer,Brute's Hammer,Two,Moderate,1.4,1,1,0.12857144,0.5,This destructive hammer was likely wielded by a vicious killer.
+common.items.weapons.hammer.cobalt_hammer-1,Hammer,Cobalt Mace,Two,Moderate,1.6,1,1,0.121875,0.5,The decorative hooked head of this mace is formed from a bluish gray metal.
+common.items.weapons.hammer.steel_hammer-5,Hammer,Morning Star,Two,Moderate,1.4,1,1,0.12857144,0.5,A spiked ball designed to resemble the stars lining the night sky.
+common.items.weapons.hammer.cultist_purp_2h-0,Hammer,Magical Cultist Warhammer,Two,Epic,2,1,1,0.140625,0.5,This belonged to an evil Cult Leader.
+common.items.weapons.hammer.flimsy_hammer,Hammer,Flimsy Hammer,Two,Low,0.5,1,1,0.09375,0.5,The head is barely secured.
+common.items.weapons.hammer.steel_hammer-2,Hammer,Steel Club,Two,Moderate,1.4,1,1,0.12857144,0.5,"A heavy and wide baton made of a durable metal alloy, decorated with spikes."
+common.items.weapons.hammer.burnt_drumstick,Hammer,Burnt Drumstick,Two,Low,0.5,1,1,0.09375,0.5,Might need more practice...
+common.items.weapons.hammer.wood_hammer-0,Hammer,Hardwood Mallet,Two,Low,0.6,1,1,0.083333336,0.5,"Hardened wood, subjected to many different elements to provide a enough strength to be a weapon."
+common.items.weapons.hammer.iron_hammer-6,Hammer,Spiked Maul,Two,Common,1.2,1,1,0.103125,0.5,A rough shaped iron hammer with spikes for added destruction.
+common.items.weapons.hammer.iron_hammer-5,Hammer,Lucerne Hammer,Two,Common,1.2,1,1,0.103125,0.5,A hybrid fusion of a warhammer and a polearm.
+common.items.weapons.hammer.iron_hammer-0,Hammer,Iron Hammer,Two,Common,1.2,1,1,0.103125,0.5,"This heavy, solid chunk iron hammer head is simple and brutal in its design."
+common.items.weapons.hammer.iron_hammer-7,Hammer,Giant's Fist,Two,Common,1.2,1,1,0.103125,0.5,This iron forged hammer is roughly shaped into the shape of a fist holding the hammer head.
+common.items.weapons.hammer.hammer_1,Hammer,Crude Mallet,Two,Low,0.5,1,1,0.09375,0.5,Breaks bones like sticks and stones.
+common.items.weapons.hammer.iron_hammer-8,Hammer,Pike Hammer,Two,Common,1.2,1,1,0.103125,0.5,"This hammer has a spike on the opposite end, making it dangerous when swung either direction."
+common.items.weapons.hammer.steel_hammer-0,Hammer,Steel Hammer,Two,Moderate,1.4,1,1,0.12857144,0.5,"While lighter and more durable than its iron counterparts, it is nonetheless just as deadly."
+common.items.weapons.hammer.stone_hammer-2,Hammer,Rocky Maul,Two,Low,0.7,1,0.9,0.07589286,0.5,"A rock tied to a stick, still good for smashing, but not very strong."
+common.items.weapons.hammer.steel_hammer-1,Hammer,Steel Greathammer,Two,Moderate,1.4,1,1,0.12857144,0.5,The lighter attributes of the metal alloy are barely noticed when forged into such a wide hammer head.
+common.items.weapons.hammer.stone_hammer-0,Hammer,Basalt Sledgehammer,Two,Low,0.6,1,1,0.07589286,0.5,"Bloodied stone tied to a branch, simple but functional as a weapon."
+common.items.weapons.hammer.stone_hammer-3,Hammer,Stone Sledgehammer,Two,Low,0.6,1,1,0.07589286,0.5,"A heavy rock with a slot worn through to fasten it in place. Brutal in its simple design, but still functional."
+common.items.weapons.hammer.ramshead_hammer,Hammer,Ram's Head Mace,Two,High,1.8,1,1,0.13611111,0.5,You feel an evil presence in the hammer.
+common.items.weapons.hammer.steel_hammer-3,Hammer,Battle Mace,Two,Moderate,1.4,1,1,0.12857144,0.5,"A heavy, spiked steel ball tip provides a great smashing weapon."
+common.items.weapons.hammer.bronze_hammer-1,Hammer,Bronze Club,Two,Common,1,1,1,0.1125,0.5,The entire head of this club is forged from bronze alloy.
+common.items.weapons.hammer.mjolnir,Hammer,Mjolnir,Two,Legendary,2.5,1,0.8,0.078125,0.5,It's crackling with lightning.
+common.items.weapons.hammer.stone_hammer-1,Hammer,Granite Sledgehammer,Two,Low,0.5,1,1.1,0.07589286,0.5,"A rough stone, crumbling on the striking surfaces. Still usable as a weapon."
+common.items.weapons.hammer.iron_hammer-4,Hammer,Forge Hammer,Two,Common,1.2,1,1,0.103125,0.5,"Worn head shows that this hammer had been used for many years to make other weapons, now relegated to being a weapon in its own right."
+common.items.weapons.hammer.iron_hammer-1,Hammer,Iron Battlehammer,Two,Common,1.2,1,1,0.103125,0.5,"This heavy, square iron hammer is designed for squashing heads like watermelons."
+common.items.weapons.hammer.bronze_hammer-0,Hammer,Bronze Hammer,Two,Common,1,1,1,0.1125,0.5,A heavy hammer forged from a simple metal alloy.
+common.items.weapons.hammer.cobalt_hammer-0,Hammer,Cobalt Hammer,Two,Moderate,1.6,1,1,0.121875,0.5,The bluish gray tinge to the metal of this hammer head provides a slight classiness to the weapon.
+common.items.weapons.hammer.starter_hammer,Hammer,Sturdy Old Hammer,Two,Low,0.5,1,1,0.09375,0.5,'Property of...' The rest is missing.
+common.items.weapons.hammer.iron_hammer-3,Hammer,Crowned Mace,Two,Common,1.2,1,1,0.103125,0.5,The decorative iron mace has a crowning tip on top.
+common.items.weapons.hammer.iron_hammer-2,Hammer,Iron Mace,Two,Common,1.2,1,1,0.103125,0.5,"A decorative iron mace, great for smashing."
+common.items.weapons.dagger.cultist_0,Dagger,Magical Cultist Dagger,One,Epic,2,1,1,0.140625,0,This belonged to an evil Cult Leader.
+common.items.weapons.dagger.basic_0,Dagger,Suspicious Paper Knife,One,High,1.8,2,1,0.13611111,0,Opens letters quickly.
+common.items.weapons.dagger.starter_dagger,Dagger,Rusty Dagger,One,Moderate,1,0.5,1,0.15,0.3,Easily concealed.
+common.items.weapons.empty.empty,Empty,Empty Item,One,Low,1,1,1,0.0625,0.2,"This item may grant abilities, but is invisible"
+common.items.npc_weapons.bow.saurok_bow,Bow,Saurok bow,Two,Low,1,1,1,0.0625,0.5,Placeholder
+common.items.npc_weapons.sword.saurok_sword,Sword,Saurok Sword,Two,Low,1,1,1,0.0625,0.5,Placehoder
+common.items.npc_weapons.sword.dullahan_sword,Sword,Dullahan Sword,Two,Low,1,1,1,0.0625,0.5,Placehoder
+common.items.npc_weapons.biped_small.sahagin.gnoll_staff,Staff,Gnoll Staff,Two,Low,1.1,0.8,0.8,0.053030305,0,eekum bokum
+common.items.npc_weapons.biped_small.sahagin.wooden_spear,Spear,Wooden Spear,Two,Low,1.1,1,1,0.05965909,0,Testing
+common.items.npc_weapons.biped_small.sahagin.adlet_bow,Bow,Adlet Bow,Two,Moderate,1.1,0.8,0.3,0.066083916,0,Strips of leather are wrapped around the handle.
+common.items.npc_weapons.biped_small.haniwa.gnoll_staff,Staff,Gnoll Staff,Two,Low,1.8,0.8,0.6,0.036458332,0,eekum bokum
+common.items.npc_weapons.biped_small.haniwa.wooden_spear,Spear,Wooden Spear,Two,Low,1.4,1,1,0.05357143,0,Testing
+common.items.npc_weapons.biped_small.haniwa.adlet_bow,Bow,Adlet Bow,Two,Moderate,1.6,0.8,0.3,0.05625,0,Strips of leather are wrapped around the handle.
+common.items.npc_weapons.biped_small.gnarling.gnoll_staff,Staff,Gnoll Staff,Two,Low,0.3,0.8,0.8,0.12037037,0,eekum bokum
+common.items.npc_weapons.biped_small.gnarling.wooden_spear,Spear,Wooden Spear,Two,Low,0.3,1,1,0.13541667,0,Testing
+common.items.npc_weapons.biped_small.gnarling.adlet_bow,Bow,Adlet Bow,Two,Moderate,0.3,0.8,0.7,0.26764706,0,Strips of leather are wrapped around the handle.
+common.items.npc_weapons.biped_small.adlet.gnoll_staff,Staff,Gnoll Staff,Two,Low,0.7,0.8,0.5,0.05059524,0,eekum bokum
+common.items.npc_weapons.biped_small.adlet.wooden_spear,Spear,Wooden Spear,Two,Low,0.7,1,1,0.07589286,0,Testing
+common.items.npc_weapons.biped_small.adlet.adlet_bow,Bow,Adlet Bow,Two,Moderate,0.7,0.8,0.3,0.08406594,0,Strips of leather are wrapped around the handle.
+common.items.npc_weapons.biped_small.myrmidon.gnoll_staff,Staff,Gnoll Staff,Two,Low,1.7,0.8,0.7,0.040873703,0,eekum bokum
+common.items.npc_weapons.biped_small.myrmidon.wooden_spear,Spear,Wooden Spear,Two,Low,1.7,1,1,0.04963235,0,Testing
+common.items.npc_weapons.biped_small.myrmidon.adlet_bow,Bow,Adlet Bow,Two,Moderate,1.1,0.8,0.5,0.095454544,0,Strips of leather are wrapped around the handle.
+common.items.npc_weapons.axe.minotaur_axe,Natural,Minotaur Axe,Two,Legendary,1,1,1,0.1,0.5,Placeholder
+common.items.npc_weapons.axe.oni_blue_axe,Axe,Blue Oni Axe,Two,Low,1.6,1,1.1,0.18,0.5,Placeholder
+common.items.npc_weapons.staff.saurok_staff,Staff,Saurok Staff,Two,Low,1,1,1,0.0625,0.5,Placeholder
+common.items.npc_weapons.staff.ogre_staff,Staff,Ogre Staff,Two,Low,1,1,1,0.0625,0.5,Placeholder
+common.items.npc_weapons.staff.mindflayer_staff,Staff,Mindflayer Staff,Two,Legendary,1,1,1,0,0.01,Placeholder
+common.items.npc_weapons.hammer.cyclops_hammer,Hammer,Cyclops Hammer,Two,Low,1,1,1,0.0625,0.5,Placeholder
+common.items.npc_weapons.hammer.harvester_scythe,Hammer,Harvester Sythe,Two,Low,1.6,1,1,0.05078125,0.001,Placeholder
+common.items.npc_weapons.hammer.troll_hammer,Hammer,Troll Hammer,Two,Low,1,1,1,0.0625,0.5,Placeholder
+common.items.npc_weapons.hammer.oni_red_hammer,Hammer,Red Oni Hammer,Two,Low,1,1,1,0.1,0.5,Placeholder
+common.items.npc_weapons.hammer.ogre_hammer,Hammer,Ogre Hammer,Two,Low,1,1,1,0.0625,0.5,Placeholder
+common.items.npc_weapons.hammer.wendigo_hammer,Hammer,Wendigo Hammer,Two,Low,1,1,1,0.0625,0.5,Placeholder
+common.items.npc_weapons.hammer.yeti_hammer,Natural,Yeti Hammer,Two,Low,1,1,1,0.046875,0.5,Placeholder
+common.items.npc_weapons.unique.quadlowtail,Natural,Quad Low Tail,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.quadmedcharge,Natural,Quad Med Charge,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.tidal_claws,Natural,Tidal Claws,Two,Low,1,1,1,0.0625,0,Snip snap
+common.items.npc_weapons.unique.tidal_totem,Natural,Tidal Totem,Two,Low,1,1,1,0.0625,0.01,Yeet
+common.items.npc_weapons.unique.birdlargebasic,Natural,Bird Large Basic,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.haniwa_sentry,Natural,Haniwa Sentry,Two,Low,1,1,1,0.0625,0.01,Rotating turret weapon
+common.items.npc_weapons.unique.beast_claws,Natural,Beast Claws,Two,Low,1,1,1,0.0625,0.5,Was attached to a beast.
+common.items.npc_weapons.unique.clay_golem_fist,Natural,Clay Golem Fists,Two,Low,1,1,1,0.1,0.001,Yeet.
+common.items.npc_weapons.unique.quadmedjump,Natural,Quad Med Jump,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.quadsmallbasic,Natural,Quad Small Basic,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.quadmedquick,Natural,Quad Med Quick,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.wendigo_magic,Natural,Wendigo Magic,Two,Low,1,1,1,0.0625,0.5,spook.
+common.items.npc_weapons.unique.quadmedbasic,Natural,Quad Med Basic,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.theropodbasic,Natural,Theropod Basic,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.quadmedbasicgentle,Natural,Quad Med Basic,Two,Low,0.5,1,1,0.09375,0.01,testing123
+common.items.npc_weapons.unique.tornado,Natural,Tornado,Two,Low,1,0,1,0,0.01,Tornado weapon
+common.items.npc_weapons.unique.birdlargefire,Natural,Bird Large Fire,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.stone_golems_fist,Natural,Stone Golem's Fist,Two,Low,1,1,1,0.0625,0.001,Was attached to a mighty stone golem.
+common.items.npc_weapons.unique.quadlowbasic,Natural,Quad Low Basic,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.birdlargebreathe,Natural,Bird Large Breathe,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.basilisk,Natural,Basilisk,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.quadlowquick,Natural,Quad Low Quick,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.quadlowbeam,Natural,Quad Small Beam,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.quadlowranged,Natural,Quad Low Ranged,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.quadlowbreathe,Natural,Quad Low Breathe,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.quadmedhoof,Natural,Quad Med Hoof,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.theropodcharge,Natural,Theropod Charge,Two,Low,1,1,1,0.1,0.01,testing123
+common.items.npc_weapons.unique.theropodbird,Natural,Theropod Bird,Two,Low,1,1,1,0.0625,0.01,testing123
+common.items.npc_weapons.unique.turret,Natural,Turret,Two,Low,1,1,1,0.0625,0.01,Turret weapon
+common.items.npc_weapons.unique.husk,Natural,Husk,Two,Low,1,1,1,0.0625,0.01,testing123
