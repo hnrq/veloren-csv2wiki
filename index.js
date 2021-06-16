@@ -69,11 +69,13 @@ const playerWeaponsMarkup = Object.entries(playerWeapons).reduce(
       (weaponAcc, weapon) =>
         weaponAcc +
         "\n|-" +
-        `\n| [[${weapon["Name"]}]] || ${weapon["Power"]} || ${
-          weapon["Speed"]
-        } || ${weapon["Poise Strength"]} || ${weapon["Crit Chance"]} || ${
-          weapon["Equip Time (s)"]
-        } || {{${weapon["Quality"]}}}`,
+        `\n| [[${weapon["Name"]}]] || ` +
+        `${weapon["Power"]} || ` +
+        `${weapon["Speed"]} || ` +
+        `${weapon["Poise Strength"]} || ` +
+        `${weapon["Crit Chance"]} || ` +
+        `${weapon["Equip Time (s)"]} || ` +
+        `{{${weapon["Quality"]}}}`,
       ""
     ) +
     "\n|}" +
