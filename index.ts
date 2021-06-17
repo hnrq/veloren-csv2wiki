@@ -32,12 +32,14 @@ content.forEach((item: Weapon) => {
           ...npcWeapons[capitalize(itemType)],
           [item["Name"]]: {
             ...filterObject<Weapon>(item, allowedKeys),
+            "Crit Chance": Number(item["Crit Chance"]).toFixed(2)
           },
         })
       : (playerWeapons[capitalize(itemType)] = {
           ...playerWeapons[capitalize(itemType)],
           [item["Name"]]: {
             ...filterObject<Weapon>(item, allowedKeys),
+            "Crit Chance": Number(item["Crit Chance"]).toFixed(2)
           },
         });
 });
